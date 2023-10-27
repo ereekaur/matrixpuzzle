@@ -9,3 +9,4 @@ TODO:
 
 1) Add more questions
 2) Display the current question number
+3) Add hover visual effects for buttons
